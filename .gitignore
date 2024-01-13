@@ -8,3 +8,4 @@ installer/firmware.bin
 
 src/Main/Main.ino.cpp
 
+t-impulse-aprs-firmware-v*.zip
